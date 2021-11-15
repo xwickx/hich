@@ -12,8 +12,8 @@
 ## Operating Systems Tested
 ### Kali Linux 2020
 ##Installation On Kali Linux
-$ git clone 
-$ cd 
-$ sudo bash ----.sh
-$ python3 -m pip install -r requirments.txt
-$ sudo python3 ----- .py
+### $ git clone 
+#### $ cd 
+#### $ sudo bash ----.sh
+#### $ python3 -m pip install -r requirments.txt
+#### $ sudo python3 ----- .py
